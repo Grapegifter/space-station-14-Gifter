@@ -38,3 +38,10 @@
   components:
   - type: StealCondition
     stealGroup: CMOLicenseSteal
+
+- type: entity
+  parent: BaseTraitorStealObjective
+  id: HoPBoardStealObjective
+  components:
+  - type: StealCondition
+    stealGroup: HoPBoardSteal

@@ -13,3 +13,10 @@
   sprite:
     sprite: _Starlight/Objects/Specific/legalpapers/cmo-license.rsi
     state: cmo-license
+
+- type: stealTargetGroup
+  id: HoPBoardSteal
+  name: steal-target-groups-hopboard
+  sprite:
+    sprite: _Starlight/Objects/Specific/legalpapers/cmo-license.rsi
+    state: cmo-license
