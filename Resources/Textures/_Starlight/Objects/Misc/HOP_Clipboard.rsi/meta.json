@@ -26,11 +26,11 @@
       "name": "hop_clipboard_target_id"
     },
     {
-      "name": "inhand-left",
+      "name": "inhand-hopboard-left",
       "directions": 4
     },
     {
-      "name": "inhand-right",
+      "name": "inhand-hopboard-right",
       "directions": 4
     }
   ]
